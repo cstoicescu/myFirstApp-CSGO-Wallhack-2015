@@ -7,6 +7,8 @@ My first 'real' app. I was 18 and i really used to game at that time. So, i deci
 
 *So i made some accounts on different hacking platforms, asking question and learning. In a few weeks i managed to get it working. I was so happy that something i made helped me to gain (unfair) advantage in a game (see players through walls), so it had a meaning.Knowing where the enemy players are gives a huge advantage. Even made it public on the same forums that i learned from and gain some really cool feedback. People actually loved it and used it a while.*  
 
+*I maintained the code till 2015 - finished highschool, when i finally realized playing games was getting me nowwhere and it was a waste of time and i needed to do something with my life*  
+
 *Reading all the forum post thanking me really got me going and made me love programming.*
 
 *I actually managed to found a demo on my old pc :)*  
